@@ -1,10 +1,12 @@
 # bottom_menu
 Korzinka_Texnomart bottom_menu bloc provider
-#details
+
+## Details
+
 Learned skills:
-Bloc
-Provider
-GetIt
-ease_debounce
-dio
-pull_to_refresh
+*Bloc
+*Provider
+*GetIt
+*ease_debounce
+*dio
+*pull_to_refresh
